@@ -1,0 +1,10 @@
+{
+  "env": {
+    "local": {
+      "db": "http://127.0.0.1:5984/chardb"
+    },
+     "cloudant": {
+          "db": "https://andlysedislivermetewspea:CAKncmXhH1AxLE0wuOcDMoeu@jenober.cloudant.com/clouddb/"
+        }
+  }
+}

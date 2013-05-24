@@ -1,0 +1,91 @@
+{
+    "Default1":{
+
+        "Date": ["Date: ", "12/12/12"],
+        "Name": ["Name: ", "Darmok UnJalad Attinagra"],
+        "Race": ["Race: ", "Dwarf"],
+        "Class": ["Class: ", "Fighter"],
+        "Str": ["Strength: ", "10"],
+        "Con": ["Constitution: ", "10"],
+        "Dex": ["Dexterity: ","10"],
+        "Int": ["Intelligence: ","10"],
+        "Wis": ["Wisdom: ","10"],
+        "Cha": ["Charisma: ", "10"]
+
+    },
+
+    "Default2":{
+
+        "Date": ["Date: ", "12/12/12"],
+        "Name": ["Name: ", "Trix Arfur Kitz"],
+        "Race": ["Race: ", "Human"],
+        "Class": ["Class: ", "Fighter"],
+        "Str": ["Strength: ", "11"],
+        "Con": ["Constitution: ", "11"],
+        "Dex": ["Dexterity: ","11"],
+        "Int": ["Intelligence: ","11"],
+        "Wis": ["Wisdom: ","11"],
+        "Cha": ["Charisma: ", "11"]
+
+    },
+
+    "Default3":{
+
+        "Date": ["Date: ", "12/12/12"],
+        "Name": ["Name: ", "Ed Ippus"],
+        "Race": ["Race: ", "Gnome"],
+        "Class": ["Class: ", "Fighter"],
+        "Str": ["Strength: ", "10"],
+        "Con": ["Constitution: ", "10"],
+        "Dex": ["Dexterity: ","10"],
+        "Int": ["Intelligence: ","10"],
+        "Wis": ["Wisdom: ","10"],
+        "Cha": ["Charisma: ", "10"]
+
+    },
+
+    "Default4":{
+
+        "Date": ["Date: ", "12/12/12"],
+        "Name": ["Name: ", "S. H. Rodinger"],
+        "Race": ["Race: ", "Half-Orc"],
+        "Class": ["Class: ", "Fighter"],
+        "Str": ["Strength: ", "11"],
+        "Con": ["Constitution: ", "11"],
+        "Dex": ["Dexterity: ","11"],
+        "Int": ["Intelligence: ","11"],
+        "Wis": ["Wisdom: ","11"],
+        "Cha": ["Charisma: ", "11"]
+
+    },
+
+    "Default5":{
+
+        "Date": ["Date: ", "12/12/12"],
+        "Name": ["Name: ", "Lady Rae"],
+        "Race": ["Race: ", "Elf"],
+        "Class": ["Class: ", "Fighter"],
+        "Str": ["Strength: ", "10"],
+        "Con": ["Constitution: ", "10"],
+        "Dex": ["Dexterity: ","10"],
+        "Int": ["Intelligence: ","10"],
+        "Wis": ["Wisdom: ","10"],
+        "Cha": ["Charisma: ", "10"]
+
+    },
+
+    "Default6":{
+
+        "Date": ["Date: ", "12/12/12"],
+        "Name": ["Name: ", "Alex Morgan"],
+        "Race": ["Race: ", "Human"],
+        "Class": ["Class: ", "Fighter"],
+        "Str": ["Strength: ", "11"],
+        "Con": ["Constitution: ", "11"],
+        "Dex": ["Dexterity: ","11"],
+        "Int": ["Intelligence: ","11"],
+        "Wis": ["Wisdom: ","11"],
+        "Cha": ["Charisma: ", "11"]
+
+    }
+}

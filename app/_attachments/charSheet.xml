@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<sheets>
+
+	<char>
+		<key>43652</key>
+		<date>05/06/13</date>
+		<name>XML TEST DATA 1</name>
+		<race>Dwarf</race>
+		<class>Fighter</class>
+		<str>1</str>
+		<con>2</con>
+		<dex>3</dex>
+		<int>4</int>
+		<wis>5</wis>
+		<cha>6</cha>
+	</char>
+	
+	<char>
+		<key>24357</key>
+		<date>06/07/12</date>
+		<name>XML TEST DATA 2</name>
+		<race>Elf</race>
+		<class>Cleric</class>
+		<str>14</str>
+		<con>22</con>
+		<dex>14</dex>
+		<int>20</int>
+		<wis>36</wis>
+		<cha>24</cha>
+	</char>
+	
+	<char>
+		<key>83012</key>
+		<date>12/10/77</date>
+		<name>XML TEST DATA 3</name>
+		<race>Dwarf</race>
+		<class>Rouge</class>
+		<str>13</str>
+		<con>18</con>
+		<dex>28</dex>
+		<int>13</int>
+		<wis>19</wis>
+		<cha>22</cha>
+	</char>
+	
+	<char>
+		<key>08325</key>
+		<date>03/14/08</date>
+		<name>XML TEST DATA 4</name>
+		<race>Half-Orc</race>
+		<class>Fighter</class>
+		<str>30</str>
+		<con>28</con>
+		<dex>16</dex>
+		<int>10</int>
+		<wis>6</wis>
+		<cha>5</cha>
+	</char>
+	
+	<char>
+		<key>48142</key>
+		<date>07/11/12</date>
+		<name>XML TEST DATA 5</name>
+		<race>Elf</race>
+		<class>Wizard</class>
+		<str>8</str>
+		<con>15</con>
+		<dex>18</dex>
+		<int>22</int>
+		<wis>16</wis>
+		<cha>25</cha>
+	</char>
+	
+	<char>
+		<key>29046</key>
+		<date>02/23/04</date>
+		<name>XML TEST DATA 6</name>
+		<race>Dwarf</race>
+		<class>Fighter</class>
+		<str>25</str>
+		<con>36</con>
+		<dex>15</dex>
+		<int>10</int>
+		<wis>12</wis>
+		<cha>5</cha>
+	</char>
+
+</sheets>
